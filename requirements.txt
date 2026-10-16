@@ -15,3 +15,4 @@ sqlalchemy
 pydantic
 pytest
 httpx
+requests

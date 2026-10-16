@@ -1,5 +1,7 @@
 .venv/
+venv/
 __pycache__/
-*.pyc
+*.py[cod]
 .env
+.streamlit/secrets.toml
 simple.pdf
